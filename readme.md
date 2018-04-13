@@ -25,4 +25,4 @@ number assigned for an action is given (Data and fact on components) :-
 <li> Switch off lights alternately .</li>
 <li> Switch off the fan.</li>
 <li> no. of commands given :- Switch on/off the appliances.</li></ol></p>
-<p>Rest information is given in .pdf file.</p>
+<p>Rest informations are given in .pdf file.</p>
